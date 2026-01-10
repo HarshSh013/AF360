@@ -1,0 +1,33 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef1"
+            },
+            "FirstName": "Ben",
+            "LastName": "Johnson",
+            "RecordTypeId": "012Qy000009skf2IAA"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef2"
+            },
+            "FirstName": "Maria",
+            "LastName": "Lee",
+            "RecordTypeId": "012Qy000009skf2IAA"
+        }
+        ,
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef3"
+            },
+            "FirstName": "Julia",
+            "LastName": "Thomas",
+            "RecordTypeId": "012Qy000009skf2IAA"
+        }
+    ]
+}
+

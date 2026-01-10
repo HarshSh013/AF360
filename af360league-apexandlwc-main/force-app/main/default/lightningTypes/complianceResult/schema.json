@@ -1,0 +1,5 @@
+{
+    "title": "Compliance Result",
+    "description": "Custom Lightning Type for Compliance Check Results",
+    "lightning:type": "@apexClassType/c__ComplianceMetrics"
+}
